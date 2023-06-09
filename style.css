@@ -1,0 +1,41 @@
+body{
+    font-family:sans-serif;
+    background-color:rgb(62, 254, 255) ;
+}
+.login{
+    width: 300px;
+    background-color: aliceblue;
+    margin:150px auto;
+    padding: 20px 50px;
+}
+.daftar{
+    width: 300px;
+    background-color: aliceblue;
+    margin:150px auto;
+    padding: 20px 50px;
+}
+.from{
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+label{
+    font-size: 12pt;
+    font-family: sans-serif;
+    margin: center;
+}
+.tombol{
+    background: #46de4b;
+    color: white;
+    font-size: 12pt;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 20px;
+    margin-left: 40px;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    margin: 100px auto;
+}
